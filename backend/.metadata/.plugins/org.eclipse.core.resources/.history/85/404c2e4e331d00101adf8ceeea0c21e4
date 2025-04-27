@@ -1,0 +1,8 @@
+spring.application.name=centraltotal
+spring.application.name=centraltotal
+spring.datasource.url=jdbc:sqlserver://localhost:1433;databaseName:CENTRAL_TOTAL;trustServerCertificate=true
+spring.datasource.username=sa
+spring.datasource.password=Regilene10.
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
+spring.jpa.database-platform=org.hibernate.dialect.SQLServerDialect
